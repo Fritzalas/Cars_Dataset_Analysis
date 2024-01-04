@@ -1,0 +1,2001 @@
+Model,Brand,Year,Price
+Dakota,Dodge,2009,27960
+Element,Honda,2010,23885
+Murano,Nissan,2017,29740
+Rapide,Aston Martin,2011,207895
+SS,Chevrolet,2015,45745
+570S Coupe,Mclaren,2018,229000.0
+ALPINA B6 Gran Coupe,BMW,2015,117300
+MKS,Lincoln,2015,45840
+Arnage,Bentley,2008,242990
+Insight,Honda,2013,22065
+Monte Carlo,Chevrolet,2005,28355
+Ram Wagon,Dodge,2001,23360
+300 Touring,Chrysler,2021,30440.0
+ Rogue Sport , Nissan   ,2023,"23,430"
+SQ5,Audi,2017,60800
+Santa Fe,Hyundai,2017,36700
+RS 5,Audi,2013,77900
+JX,Infiniti,2013,41250
+S-10,Chevrolet,2002,15943
+MKZ,Lincoln,2017,35010
+Frontier,Nissan,2017,25750
+Malibu Maxx,Chevrolet,2005,21465
+Chiron Super Sport 300 Plus,Bugatti,2020,3900000.0
+4 Series,BMW,2017,50300
+Q3,Audi,2017,34500
+XC60,Volvo,2016,41350
+Windstar,Ford,2003,23070
+Sonata,Hyundai,2015,23175
+500X,FIAT,2016,24635
+9-5,Saab,2009,39400
+CX-9,Mazda,2016,35970
+Ram Pickup 1500,Dodge,2008,29055
+Tracker,Chevrolet,2002,20835
+Rapide,Aston Martin,2012,226850
+Continental Flying Spur,Bentley,2012,184200
+Tribute Hybrid,Mazda,2008,27995
+Phantom Coupe,Rolls-Royce,2014,433550
+LR4,Land Rover,2016,50400
+Aztek,Pontiac,2003,20870
+62,Maybach,2012,470350
+Saga Premium,Proton,2020,9660.0
+Shelby GT500,Ford,2013,59200
+Prius c,Toyota,2014,20030
+Dakota,Dodge,2008,22030
+Model S Plaid,Tesla,2021,119990.0
+500,FIAT,2017,19995
+V70,Volvo,2008,32465
+Baja,Subaru,2006,23295
+Sierra 1500 Hybrid,GMC,2012,46790
+Z3,BMW,2000,4755
+Dart,Dodge,2015,21645
+Insight,Honda,2012,23690
+Tribute Hybrid,Mazda,2009,31695
+Baja,Subaru,2005,25345
+599,Ferrari,2011,320580
+Mustang,Ford,2016,36395
+GranTurismo,Maserati,2016,150570
+Diamante,Mitsubishi,2002,28447
+Murcielago,Lamborghini,2010,450000
+Forte,Kia,2017,17500
+Celica,Toyota,2003,17340
+GLI,Volkswagen,2008,24300
+Golf SportWagen,Volkswagen,2017,22680
+Baja,Subaru,2004,23995
+Forenza,Suzuki,2007,15249
+Vanquish,Aston Martin,2016,287650
+X1,BMW,2017,33100
+New Beetle,Volkswagen,2009,25990
+570S Spider,Mclaren,2018,247500.0
+LS 400,Lexus,2000,5035
+Z8,BMW,2003,131500
+Accord,Honda,2017,26215
+Camry,Toyota,2015,26150
+RS 7,Audi,2016,108900
+Outback,Subaru,2016,30695
+C-Class,Mercedes-Benz,2015,40400
+Jimmy,GMC,2001,30225
+Beetle,Volkswagen,2017,20475
+3 Series Gran Turismo,BMW,2017,49650
+CL-Class,Mercedes-Benz,2012,211000
+57,Maybach,2010,366000
+Explorer Sport Trac,Ford,2008,29235
+S-10,Chevrolet,2002,20984
+M6,BMW,2015,118200
+M56,Infiniti,2011,60950
+ Outback     , Subaru   ,2023,"31,945"
+Metris,Mercedes-Benz,2016,32500
+Sunfire,Pontiac,2005,15205
+Maxima,Nissan,2016,36990
+Continental Supersports,Bentley,2010,267000
+GTC4 Lusso,Ferrari,2020,298000.0
+Express,Chevrolet,2014,34525
+RX-8,Mazda,2009,31930
+ Maverick    , Ford     ,2023,"21,820"
+CX-9,Mazda,2015,35035
+Montero Sport,Mitsubishi,2003,25637
+Cavalier,Chevrolet,2003,14230
+X4,BMW,2016,57800
+Caliber,Dodge,2012,18730
+Touareg,Volkswagen,2016,51450
+RL,Acura,2011,51350
+9-3,Saab,2009,44455
+Sierra 1500 Classic,GMC,2007,28845
+ES 300h,Lexus,2015,40580
+Corsair Standard,Lincoln,2022,36100.0
+Kwid Std,Renault,2019,3810.0
+Dakota,Dodge,2009,22560
+Trax,Chevrolet,2017,24400
+Reno,Suzuki,2007,15199
+Vibe,Pontiac,2010,20275
+Sierra 1500 Classic,GMC,2007,35520
+Wraith,Rolls-Royce,2015,294025
+Arnage,Bentley,2007,221990
+Ranger,Ford,2009,17680
+Envoy XL,GMC,2005,31945
+500X Trekking Plus AWD,Fiat,2019,29440.0
+Phantom Drophead Coupe,Rolls-Royce,2014,474600
+Sonata Hybrid,Hyundai,2017,26000
+CL,Acura,2002,28030
+Kwid Climber AMT Easy-R,Renault,2019,7000.0
+Rondo,Kia,2008,18895
+G Convertible,Infiniti,2011,50200
+Dart,Dodge,2016,19495
+ES 300h,Lexus,2017,41820
+Enya Coupe iV 80,Skoda,2022,53410.0
+CTS Coupe,Cadillac,2014,39495
+Q7,Audi,2015,61900
+Legacy,Subaru,2016,21745
+Kizashi,Suzuki,2013,25799
+Firebird,Pontiac,2002,26965
+Vibe,Pontiac,2009,20875
+Cavalier,Chevrolet,2004,15905
+Rio,Kia,2016,20755
+Town Car,Lincoln,2011,47225
+Sierra 1500,GMC,2015,43360
+Aventador,Lamborghini,2016,443800
+ X5          , BMW      ,2022,"62,700"
+Verano,Buick,2016,23480
+MKC,Lincoln,2016,46455
+Aerio,Suzuki,2006,17099
+V60,Volvo,2017,48950
+Aveo,Chevrolet,2009,15365
+Tucson Hybrid,Hyundai,2022,26130.0
+Enclave,Buick,2016,43660
+Magnum,Dodge,2006,29100
+XL7,Suzuki,2007,29549
+Optima Hybrid,Kia,2016,32195
+500X Urbana Edition AWD,Fiat,2019,26240.0
+Freestyle,Ford,2006,28530
+Divo,Bugatti,2020,5800000.0
+S8,Audi,2017,115900
+R-Class,Mercedes-Benz,2012,52690
+Aurora,Oldsmobile,2002,35085
+Corvette,Chevrolet,2016,88345
+4 Series Convertible,BMW,2022,54290.0
+S4,Audi,2014,49500
+M4,BMW,2015,64200
+FX50,Infiniti,2010,59000
+Silverado 1500 Classic,Chevrolet,2007,15840
+QX60,Infiniti,2022,46850.0
+Passat,Volkswagen,2015,26280
+Ghibli,Maserati,2016,76050
+Triber RXT,Renault,2019,8300.0
+ActiveHybrid X6,BMW,2011,88900
+Ram Pickup 1500,Dodge,2008,41350
+Ghost,Rolls-Royce,2012,250000
+Dakota,Dodge,2009,28630
+Centodieci,Bugatti,2020,9000000.0
+CTS,Cadillac,2017,61195
+CR-Z,Honda,2016,22140
+Virage,Aston Martin,2012,208295
+Venture,Chevrolet,2003,22440
+Q40,Infiniti,2015,33950
+Enclave Premium,Buick,2021,48400.0
+Flying Spur,Bentley,2015,215800
+CX-5,Mazda,2016,21795
+SL-Class,Mercedes-Benz,2016,108050
+Macan,Porsche,2017,67200
+Suburban,Chevrolet,2015,54205
+Sedona,Kia,2017,41900
+ CVT,Renault,2019,14500.0
+Santa Fe,Hyundai,2016,32150
+3 Pro Performance,Volkswagen,2022,41990.0
+xD,Scion,2014,15920
+Civic,Honda,2015,24340
+Terrain,GMC,2016,28300
+Triber RXZ EASY R AMT Dual Tone,Renault,2022,10660.0
+DB11 V8,Aston Martin,2021,205600.0
+Sierra 1500 Classic,GMC,2007,20715
+500X Blue Sky Edition AWD,Fiat,2019,24700.0
+Envoy XL,GMC,2004,33570
+GLE-Class Coupe,Mercedes-Benz,2017,69650
+Soul EV,Kia,2016,33950
+Prius,Toyota,2015,25765
+Montana,Pontiac,2003,33790
+G3,Pontiac,2009,14335
+HS 250h,Lexus,2011,39100
+Millenia,Mazda,2000,2381
+TLX,Acura,2017,42600
+612 Scaglietti,Ferrari,2009,313088
+570S Spider,Mclaren,2020,208800.0
+Savana Cargo,GMC,2016,32455
+Thunderbird,Ford,2004,38480
+Giulia Veloci Ti,Alfa Romeo,2022,45090.0
+Triber RXE,Renault,2019,6990.0
+Monte Carlo,Chevrolet,2007,22625
+TLX,Acura,2015,41575
+EuroVan,Volkswagen,2001,27700
+Sierra 1500 Classic,GMC,2007,26820
+GS 400,Lexus,2000,3965
+LX 600 F SPORT Handling,Lexus,2022,101000.0
+CR-V,Honda,2015,32895
+Impreza,Subaru,2017,18395
+Hector Super Petrol,MG,2019,22300.0
+ Q5          , Audi     ,2023,"43,200"
+Titan,Nissan,2015,41160
+Touareg 2,Volkswagen,2009,48900
+B-Series Pickup,Mazda,2000,3107
+RAV4,Toyota,2015,25240
+Huracan EVO,Lamborghini,2020,261270.0
+XTS,Cadillac,2015,64245
+Cayman,Porsche,2016,64100
+CLK-Class,Mercedes-Benz,2007,62900
+500L Pop Hatch,Fiat,2020,21990.0
+9-2X,Saab,2006,26950
+SRX,Cadillac,2016,37605
+Aerio,Suzuki,2005,17349
+6 Series Gran Coupe,BMW,2017,91200
+Enclave Avenir,Buick,2021,53800.0
+Caliber,Dodge,2011,18620
+QX56,Infiniti,2011,61800
+RX-8,Mazda,2010,32140
+Focus,Ford,2015,18460
+Traverse,Chevrolet,2017,38650
+Highlander,Toyota,2015,34750
+Taurus X,Ford,2008,27030
+xA,Scion,2006,12780
+Camry Solara,Toyota,2007,19930
+FX,Infiniti,2013,53400
+Prius,Toyota,2016,24200
+Charger,Dodge,2015,47995
+350Z,Nissan,2007,35550
+Aviator,Lincoln,2003,45125
+Grand Voyager,Plymouth,2000,2267
+Duster RXS,Renault,2019,13400.0
+XT5,Cadillac,2017,62500
+CLS-Class,Mercedes-Benz,2015,73200
+Vitara,Suzuki,2002,18199
+Envoy,GMC,2008,34020
+ Fit         , Honda    ,2023,"17,600"
+ Soul        , Kia      ,2023,"21,490"
+MKS,Lincoln,2016,41005
+Element,Honda,2011,24185
+Kwid RXE,Renault,2019,6800.0
+Escalade Hybrid,Cadillac,2013,74425
+LaFerrari,Ferrari,2021,4499998.0
+Blazer,Chevrolet,2004,21055
+XL7,Suzuki,2008,26699
+MPV,Mazda,2006,22115
+Diamante,Mitsubishi,2004,26819
+DB11 V8,Aston Martin,2022,285600.0
+ZDX,Acura,2011,46020
+TrailBlazer,Chevrolet,2008,27745
+Safari Cargo,GMC,2004,25195
+Sebring,Chrysler,2008,20865
+GTI,Volkswagen,2012,26275
+Tundra TRD Lift Kit,Toyota,2022,37000.0
+XL7,Suzuki,2008,26599
+Vanquish Manual,Aston Martin,2022,285600.0
+Phaeton,Volkswagen,2005,74600
+Rapide S,Aston Martin,2015,203995
+H3T,HUMMER,2010,39205
+Ram Pickup 1500,Dodge,2008,32155
+Borrego,Kia,2009,30995
+M-Class,Mercedes-Benz,2015,62900
+Dakota,Dodge,2008,32135
+Crown Victoria,Ford,2011,29905
+allroad,Audi,2016,42700
+STS-V,Cadillac,2009,81795
+Murano CrossCabriolet,Nissan,2014,41995
+CLK-Class,Mercedes-Benz,2008,135000
+Explorer Sport,Ford,2001,24055
+GranSport,Maserati,2006,98872
+765LT,Mclaren,2021,299000.0
+RS 4,Audi,2008,66910
+X6 M,BMW,2015,102100
+Lancer Sportback,Mitsubishi,2013,18495
+Intrepid,Dodge,2004,25415
+Celica,Toyota,2004,19535
+MKX,Lincoln,2015,40850
+Ram Pickup 1500,Dodge,2009,40270
+Aveo,Chevrolet,2009,11965
+I-Pace EV400,Jaguar,2022,85540.0
+S-10,Chevrolet,2002,17284
+CX-9,Mazda,2014,31575
+G8,Pontiac,2009,31755
+1 Series,BMW,2012,31200
+Eos,Volkswagen,2016,31995
+Blazer,Chevrolet,2003,20745
+Fusion,Ford,2015,27830
+E-Series Wagon,Ford,2014,32675
+Ram Cargo,Dodge,2002,21430
+Bentayga Speed,Bentley,2020,275500.0
+E-Class,Mercedes-Benz,2015,55850
+Accent,Hyundai,2014,17395
+RC 300,Lexus,2016,42610
+Continental GTC Speed,Bentley,2011,236100
+Encore,Buick,2017,31965
+G Convertible,Infiniti,2012,51300
+Z4,BMW,2015,48950
+Silverado 1500 Hybrid,Chevrolet,2012,42840
+Durango,Dodge,2017,37495
+Lancer,Mitsubishi,2017,20295
+6,Mazda,2015,24895
+CTS Wagon,Cadillac,2013,44190
+Ram Pickup 1500,Dodge,2009,25975
+Windstar,Ford,2002,28900
+Yaris iA,Toyota,2017,15950
+Hector Super Diesel,MG,2019,24600.0
+Fiesta,Ford,2016,14880
+i20 N Line N6 iMT Dual Tone,Hyundai,2022,12600.0
+Golf R DSG,Volkswagen,2022,44440.0
+Hector Style Petrol,MG,2019,20900.0
+Verna S Plus,Hyundai,2022,12390.0
+500L Pop Hatch,Fiat,2019,21900.0
+Accord Hybrid,Honda,2014,31905
+XL-7,Suzuki,2004,22599
+4 Series Gran Coupe,BMW,2016,43650
+ Carnival    , Kia      ,2023,"35,600"
+Astro,Chevrolet,2004,26195
+124 Spider Lusso Convertible,Fiat,2019,29040.0
+Venza,Toyota,2013,31510
+Continental Flying Spur Speed,Bentley,2012,209600
+Mirage,Mitsubishi,2015,12995
+TSX,Acura,2014,31635
+Monte Carlo,Chevrolet,2006,23430
+Nautilus Black Label,Lincoln,2021,65090.0
+QX,Infiniti,2013,64450
+RS 7,Audi,2017,110700
+Ram Cargo,Dodge,2001,20850
+EX35,Infiniti,2008,35450
+RX 350,Lexus,2017,50320
+Envoy XL,GMC,2005,29695
+Five Hundred,Ford,2006,28230
+Windstar Cargo,Ford,2002,20585
+Venture,Chevrolet,2003,24040
+Malibu Maxx,Chevrolet,2006,20165
+9-3,Saab,2009,38305
+Express,Chevrolet,2015,32190
+Uplander,Chevrolet,2007,33050
+FX35,Infiniti,2009,43600
+Sorento,Kia,2017,28500
+Suburban,Chevrolet,2016,54730
+XL-7,Suzuki,2005,27799
+Neon,Plymouth,2000,2000
+FX45,Infiniti,2007,49850
+Cullinan,Rolls Royce,2020,383300.0
+B9 Tribeca,Subaru,2006,37695
+Cobalt,Chevrolet,2008,19695
+GranTurismo Convertible,Maserati,2014,143300
+Navigator Reserve 4x4,Lincoln,2021,84640.0
+SF90 Stradale,Ferrari,2020,625000.0
+Dawn,Rolls-Royce,2016,335000
+Q60 Coupe,Infiniti,2015,40950
+Escalade EXT,Cadillac,2011,67350
+Sedan,Lamborghini,2021,287400.0
+TTS,Audi,2016,51900
+Z4 M,BMW,2007,52100
+Pacifica,Chrysler,2008,24635
+Veracruz,Hyundai,2011,28345
+LS 600h L,Lexus,2014,120060
+RX 350L Luxury AWD,Lexus,2022,55800.0
+Veloster,Hyundai,2014,23300
+Lancer Sportback,Mitsubishi,2014,21945
+500X Trekking AWD,Fiat,2019,24700.0
+Q60 Convertible,Infiniti,2014,53400
+SC 300,Lexus,2000,4024
+M-Class,Mercedes-Benz,2013,51270
+X5 M,BMW,2016,98800
+360,Ferrari,2003,154090
+RS 4,Audi,2008,81900
+Cabrio,Volkswagen,2000,2473
+Envision Avenir,Buick,2021,40200.0
+Ghibli,Maserati,2015,77900
+Crossfire,Chrysler,2006,29145
+Model S,Tesla,2015,69900
+Silverado 1500 Classic,Chevrolet,2007,20075
+Flex,Ford,2016,42600
+Spectra,Kia,2007,14895
+S40,Volvo,2011,27750
+Golf,Volkswagen,2017,20995
+Mazdaspeed MX-5 Miata,Mazda,2005,25780
+B-Series Pickup,Mazda,2000,2689
+XL-7,Suzuki,2004,24499
+Sonoma,GMC,2003,16270
+RX 450h,Lexus,2017,53035
+IS 350 C,Lexus,2014,47140
+Landaulet,Maybach,2012,1382750
+Express Cargo,Chevrolet,2014,32760
+Mustang,Ford,2017,25645
+Legacy,Subaru,2015,26495
+Endeavor,Mitsubishi,2008,27599
+Odyssey,Honda,2015,37775
+Continental Flying Spur Speed,Bentley,2011,206600
+Transit Connect,Ford,2016,22675
+S80,Volvo,2014,39900
+57,Maybach,2011,372500
+612 Scaglietti,Ferrari,2010,313088
+Sierra 1500 Classic,GMC,2007,29355
+Ranger,Ford,2009,19080
+Cavalier,Chevrolet,2004,14435
+CTS-V,Cadillac,2017,85995
+370Z,Nissan,2016,41820
+V8 Vantage,Aston Martin,2015,147495
+Prelude,Honda,2001,24600
+Durango,Dodge,2015,36895
+Freestar,Ford,2005,21630
+Rondo,Kia,2009,18495
+XC90,Volvo,2016,53250
+QX70,Infiniti,2017,45850
+Grand Vitara,Suzuki,2012,23949
+Blazer,Chevrolet,2004,23255
+G Sedan,Infiniti,2013,37150
+ES 350,Lexus,2016,38100
+Sierra 1500 Classic,GMC,2007,29015
+Tribute,Mazda,2009,25950
+Corolla,Toyota,2015,18965
+X6 M,BMW,2017,102200
+NX 200t,Lexus,2017,38585
+Q3,Audi,2015,32500
+Murcielago,Lamborghini,2008,369200
+Impala Limited,Chevrolet,2015,26840
+Prius v,Toyota,2015,26675
+G6,Pontiac,2010,21275
+Canyon,GMC,2016,34280
+Discovery Sport,Land Rover,2016,41955
+Forenza,Suzuki,2008,15389
+Silverado 1500 Hybrid,Chevrolet,2013,51490
+XLR,Cadillac,2008,81855
+Q70,Infiniti,2015,51350
+California,Ferrari,2012,195840
+Arnage,Bentley,2008,221990
+Urus,Lamborghini,2022,218000.0
+370Z,Nissan,2017,37970
+Valhalla,Aston Martin,2021,1260000.0
+Sierra 1500 Classic,GMC,2007,23850
+tC,Scion,2016,19385
+Blazer,Chevrolet,2005,24305
+Versa,Nissan,2015,13990
+ECHO,Toyota,2004,10355
+Envoy,GMC,2009,38670
+Range Rover Evoque,Land Rover,2017,51000
+Challenger SRT Hellcat,Dodge,2021,58990.0
+F-150 Heritage,Ford,2004,23830
+Creta S,Hyundai,2022,18695.0
+Sorento,Kia,2015,38500
+Renault Kwid Climber AMT,Renault,2019,6800.0
+Camry Solara,Toyota,2007,30460
+Concorde,Chrysler,2004,23480
+xA,Scion,2004,13280
+Corvette Stingray,Chevrolet,2014,53000
+Uplander,Chevrolet,2007,29350
+Mark LT,Lincoln,2007,38125
+Camry Solara,Toyota,2006,21860
+CTS,Cadillac,2016,58285
+Silverado 1500 Classic,Chevrolet,2007,28995
+V40,Volvo,2004,29845
+S-Class,Mercedes-Benz,2017,144700
+CC,Volkswagen,2015,34275
+ Camaro      , Chevrolet,2023,"25,000"
+Santa Fe Sport,Hyundai,2017,33450
+Continental GT Speed,Bentley,2014,217000
+Land Cruiser,Toyota,2015,80155
+Jetta SportWagen,Volkswagen,2012,24210
+Grand Am,Pontiac,2003,22940
+GLK-Class,Mercedes-Benz,2014,38980
+S80,Volvo,2016,48375
+ Wrangler    , Jeep     ,2023,"38,950"
+Tribeca,Subaru,2014,34095
+Freelander,Land Rover,2004,26330
+LS 460,Lexus,2015,82305
+Azure T,Bentley,2010,363000
+HS 250h,Lexus,2012,39800
+Soul EV,Kia,2015,35700
+Sierra 1500 Classic,GMC,2007,33755
+RC 200t,Lexus,2017,40155
+Jimmy,GMC,2000,2578
+Ram Pickup 1500,Dodge,2010,31730
+Colorado,Chevrolet,2015,29220
+Concorde,Chrysler,2003,28805
+Land Cruiser,Toyota,2016,83825
+Canyon,GMC,2012,24685
+M550i Xdrive,BMW,2022,77790.0
+Cavalier,Chevrolet,2003,15530
+Envoy,GMC,2009,32760
+Cavalier,Chevrolet,2004,10135
+ Maverick    , Ford     ,2023,"21,820"
+Aviator,Lincoln,2003,42175
+Sierra 1500 Classic,GMC,2007,30255
+Montero Sport,Mitsubishi,2002,27607
+MP4-12C,McLaren,2013,239400
+XL-7,Suzuki,2005,24099
+allroad,Audi,2014,40700
+Alero,Oldsmobile,2004,21985
+Montero,Mitsubishi,2004,34999
+A4 allroad,Audi,2017,51400
+ActiveHybrid 5,BMW,2016,62100
+Vanquish,Aston Martin,2015,301695
+Esprit,Lotus,2002,89825
+C70,Volvo,2011,39950
+ A5          , Audi     ,2023,"45,000"
+Magnum,Dodge,2007,33615
+Q50,Infiniti,2016,33950
+XL-7,Suzuki,2005,21899
+3,Mazda,2015,25045
+Windstar,Ford,2002,31630
+Camry Solara,Toyota,2007,29460
+SLS AMG GT,Mercedes-Benz,2013,199500
+ Acadia      , GMC      ,2023,"33,900"
+Sierra 1500 Classic,GMC,2007,26555
+Rapide S,Aston Martin,2014,198250
+F-150 Heritage,Ford,2004,23160
+H3T,HUMMER,2009,36015
+Azera,Hyundai,2017,34100
+500X Pop AWD,Fiat,2019,23700.0
+Elantra Touring,Hyundai,2010,17195
+Passat,Volkswagen,2017,29295
+SC 430,Lexus,2009,66805
+Silverado 1500,Chevrolet,2017,36035
+5 Series Gran Turismo,BMW,2016,63200
+626,Mazda,2000,2234
+Sequoia,Toyota,2016,61855
+Tribeca,Subaru,2012,35895
+Santa Fe,Hyundai,2015,30150
+Z4,BMW,2014,48950
+Terraza,Buick,2005,33855
+G37,Infiniti,2008,35650
+Cullinan,Rolls Royce,2021,330000.0
+M2,BMW,2016,51700
+ Frontier    , Nissan   ,2023,"28,950"
+Mirage,Mitsubishi,2017,14795
+S3,Audi,2016,42500
+Celica,Toyota,2005,22335
+Astro Cargo,Chevrolet,2004,25195
+Alpina,BMW,2003,136900
+ECHO,Toyota,2005,11785
+Taycan Turbo AWD,Porsche,2022,84050.0
+Kwid RXL,Renault,2019,5500.0
+Metro,Chevrolet,2001,12515
+ Sportage    , Kia      ,2023,"25,000"
+Triber RXL,Renault,2019,7700.0
+Vibe,Pontiac,2009,16100
+Cruze,Chevrolet,2017,21920
+Mulsanne,Bentley,2015,303700
+TSX Sport Wagon,Acura,2013,35510
+Stelvio Quadrifoglio,Alfa Romeo,2020,80440.0
+Sian Roadster,Lamborghini,2021,3700000.0
+Passport,Honda,2001,28050
+Outlander,Mitsubishi,2017,31695
+Camaro,Chevrolet,2015,29205
+Jetta GLI,Volkswagen,2013,25270
+Z3,BMW,2000,4976
+Cobalt,Chevrolet,2008,22335
+ActiveHybrid 5,BMW,2015,61900
+Encore,Buick,2015,29450
+GS 450h,Lexus,2014,60430
+G6,Pontiac,2009,24080
+G35,Infiniti,2007,34050
+500,Fiat,2018,16495.0
+Flying Spur W12,Bentley,2021,216700.0
+DB7,Aston Martin,2003,156300
+WRX,Subaru,2016,34695
+ Expedition  , Ford     ,2023,"54,500"
+Aviator,Lincoln,2005,40635
+Model S Long Range Plus,Tesla,2021,69420.0
+Raider,Mitsubishi,2007,23020
+QX50,Infiniti,2016,34450
+Aspen,Chrysler,2007,33810
+Elantra Touring,Hyundai,2012,17195
+S-10,Chevrolet,2002,18519
+Magnum,Dodge,2007,23370
+Fusion Hybrid,Ford,2017,37020
+Dakota,Dodge,2010,26325
+Sierra 1500 Classic,GMC,2007,27850
+Stelvio AWD,Alfa Romeo,2020,43340.0
+City Express,Chevrolet,2015,23515
+Yukon XL AT4,GMC,2022,69300.0
+Routan,Volkswagen,2011,43240
+S-10,Chevrolet,2002,23539
+550,Ferrari,2001,248500
+TrailBlazer,Chevrolet,2007,31320
+X5,BMW,2016,57000
+812 Superfast,Ferrari,2020,335000.0
+G20,Infiniti,2001,21395
+TrailBlazer,Chevrolet,2007,25045
+Reno,Suzuki,2008,14939
+Ram Pickup 1500,Dodge,2008,33730
+RS 5,Audi,2015,79200
+M4,BMW,2016,74200
+Solstice,Pontiac,2009,30375
+SQ5,Audi,2015,52700
+SLK-Class,Mercedes-Benz,2015,43950
+Z8,BMW,2002,130000
+CL,Acura,2003,32700
+Matrix,Toyota,2012,21715
+GLC-Class,Mercedes-Benz,2016,38950
+Firebird,Pontiac,2000,4677
+Equator,Suzuki,2012,19299
+E-Series Van,Ford,2014,28600
+Azera,Hyundai,2015,38200
+CX-7,Mazda,2011,33340
+Mulsanne,Bentley,2016,303700
+Explorer Sport Trac,Ford,2009,28510
+XL-7,Suzuki,2005,23299
+ Equinox     , Chevrolet,2023,"27,900"
+allroad quattro,Audi,2004,39950
+Cayenne,Porsche,2016,95500
+Q5,Audi,2017,53200
+Transit Wagon,Ford,2015,35430
+NX 300h,Lexus,2015,39720
+Silverado 1500 Classic,Chevrolet,2007,30755
+Esteem,Suzuki,2001,14699
+Taurus X,Ford,2009,33180
+Protege5,Mazda,2003,16895
+300 Touring L,Chrysler,2021,30450.0
+CR-V,Honda,2014,26470
+ Maverick    , Ford     ,2023,"21,820"
+Freestyle,Ford,2005,25040
+ECHO,Toyota,2003,10245
+Cascada,Buick,2017,36065
+RSX,Acura,2006,23845
+Eclipse Spyder,Mitsubishi,2010,27799
+Hector Smart Hybrid,MG,2019,25200.0
+Eldorado,Cadillac,2002,45265
+MKT,Lincoln,2016,43370
+Captiva Sport,Chevrolet,2013,24155
+Rapide,Aston Martin,2010,197850
+Baja,Subaru,2004,26295
+Montero Sport,Mitsubishi,2004,28199
+ GV80        , Genesis  ,2023,"47,700"
+Park Avenue,Buick,2003,39725
+Stratus,Dodge,2004,20820
+Five Hundred,Ford,2005,26290
+Bolt EV,Chevrolet,2017,40905
+Dakota,Dodge,2008,28520
+Voyager,Plymouth,2000,2317
+Yukon,GMC,2016,65325
+Solstice,Pontiac,2009,29410
+RX 450h,Lexus,2016,57045
+Forester,Subaru,2017,34295
+Stelvio Quadrifoglio,Alfa Romeo,2021,80750.0
+2,Mazda,2014,17050
+A8,Audi,2017,91500
+Sebring,Chrysler,2009,20515
+California T,Ferrari,2015,198973
+Jimmy,GMC,2001,29925
+RAV4 EV,Toyota,2012,49800
+Dakota,Dodge,2008,26120
+B-Series Pickup,Mazda,2000,2637
+RDX,Acura,2017,38370
+Blazer,Chevrolet,2005,27480
+Navigator Reserve 4x2,Lincoln,2021,81960.0
+Shelby GT500,Ford,2014,55110
+ILX,Acura,2015,29350
+CTS-V Wagon,Cadillac,2014,63600
+Magnum,Dodge,2006,37320
+Ridgeline,Honda,2013,37380
+Q7,Audi,2014,64900
+G-Class,Mercedes-Benz,2015,115400
+R8,Audi,2014,164700
+Avalon,Toyota,2017,41050
+Fusion Hybrid,Ford,2016,31430
+Hector Sharp Petrol,MG,2019,28800.0
+Forenza,Suzuki,2008,16489
+TLX,Acura,2016,41575
+ Forester    , Subaru   ,2023,"26,995"
+4Runner,Toyota,2016,36690
+Arnage,Bentley,2007,242990
+Cayman S,Porsche,2006,58900
+Altima Hybrid,Nissan,2011,26800
+A7,Audi,2016,70400
+GLI,Volkswagen,2009,24770
+Stelvio,Alfa Romeo,2020,41340.0
+Element,Honda,2009,24070
+Malibu Hybrid,Chevrolet,2010,25925
+S-10,Chevrolet,2002,18944
+RX 400h,Lexus,2008,43480
+Jesko Absolut,Koenigsegg,2021,3419000.0
+Fit,Honda,2016,21165
+TLX Technology Package,Acura,2022,42500.0
+CTS Coupe,Cadillac,2012,40615
+Celica,Toyota,2004,20335
+CTS-V Coupe,Cadillac,2013,63215
+XL7,Suzuki,2009,29079
+1 Series,BMW,2013,37200
+XF P250 S,Jaguar,2022,45300.0
+575M,Ferrari,2004,228339
+MKZ,Lincoln,2015,45555
+RDX,Acura,2015,36495
+Jetta,Volkswagen,2017,28995
+Grand Am,Pontiac,2004,19555
+Integra,Acura,2001,20200
+Accord Hybrid,Honda,2017,29605
+Ghost,Rolls-Royce,2013,296000
+Range Rover,Land Rover,2015,83495
+Concorde,Chrysler,2002,22790
+500 Lounge,Fiat,2018,25740.0
+DB9,Aston Martin,2015,198295
+500L Urbana Hatch,Fiat,2019,21900.0
+DB7,Aston Martin,2003,141800
+Equinox,Chevrolet,2017,25510
+Fit,Honda,2017,20265
+Escalade,Cadillac,2016,81545
+4Runner,Toyota,2014,41365
+Aerio,Suzuki,2006,16999
+Captiva Sport,Chevrolet,2014,25145
+V50,Volvo,2009,35500
+XL6,Suzuki,2022,14200.0
+Mazdaspeed MX-5 Miata,Mazda,2005,26580
+B-Series Pickup,Mazda,2000,3032
+Yukon XL Denali 4WD,GMC,2022,75700.0
+LaCrosse,Buick,2015,35725
+Santa Fe Sport,Hyundai,2015,33000
+A7,Audi,2017,68800
+Century,Buick,2004,21815
+Rabbit,Volkswagen,2007,14990
+Model S Plaid Plus,Tesla,2021,139990.0
+Arnage,Bentley,2009,270990
+Journey,Dodge,2015,33295
+Blazer,Chevrolet,2004,24055
+RX-8,Mazda,2009,26435
+Avalon Hybrid,Toyota,2016,36650
+Cabrio,Volkswagen,2002,23175
+Genesis Coupe,Hyundai,2014,29350
+SS,Chevrolet,2014,43475
+Silverado 1500,Chevrolet,2015,46110
+Stelvio Ti Sport Carbon,Alfa Romeo,2020,45750.0
+Huracan RWD,Lamborghini,2020,253500.0
+S40,Volvo,2009,32350
+ Explorer    , Ford     ,2023,"37,775"
+CC,Volkswagen,2017,37820
+allroad,Audi,2015,44500
+Reno,Suzuki,2008,13839
+Quest,Nissan,2016,26580
+Protege,Mazda,2002,13075
+Ram Pickup 1500,Dodge,2008,34865
+F-150 Heritage,Ford,2004,25730
+Rondo,Kia,2007,16395
+DTS,Cadillac,2009,54230
+Neon,Dodge,2003,15340
+M,BMW,2002,44990
+Insight,Honda,2014,22190
+M3,BMW,2015,62000
+Envision,Buick,2017,39570
+ZDX,Acura,2013,50920
+9-3 Griffin,Saab,2012,28900
+GS 350,Lexus,2015,55070
+Accord,Honda,2016,32745
+TrailBlazer EXT,Chevrolet,2005,30335
+Vibe,Pontiac,2009,20475
+3,Mazda,2017,21495
+Quest,Nissan,2015,30280
+Town and Country,Chrysler,2014,32995
+6 Series,BMW,2017,92000
+ Escape      , Ford     ,2023,"27,650"
+GT,Mclaren,2020,210000.0
+Concorde,Chrysler,2004,29105
+XL7,Suzuki,2009,28580
+H3T,HUMMER,2009,30750
+Eclipse,Mitsubishi,2011,24699
+Sierra 1500 Classic,GMC,2007,27560
+EuroVan,Volkswagen,2002,27700
+DTS,Cadillac,2009,51460
+Frontier,Nissan,2015,32560
+Tribute Hybrid,Mazda,2009,30925
+S-10,Chevrolet,2003,17570
+S2000,Honda,2008,36300
+Silhouette,Oldsmobile,2003,34290
+Stratus,Dodge,2004,21450
+Passport,Honda,2001,23000
+XV Crosstrek,Subaru,2015,24795
+F-Type R Convertible,Jaguar,2021,105900.0
+Endeavor,Mitsubishi,2011,28299
+C70,Volvo,2012,40450
+Equus,Hyundai,2016,68750
+GLS-Class,Mercedes-Benz,2017,124100
+Raider,Mitsubishi,2007,24005
+R-Class,Mercedes-Benz,2011,50240
+G6,Pontiac,2009,28580
+Escalade EXT,Cadillac,2013,69640
+Explorer,Ford,2017,53235
+B-Series,Mazda,2001,14990
+Explorer,Ford,2016,35400
+Mirage,Mitsubishi,2014,12995
+GS 430,Lexus,2006,51375
+Freestyle,Ford,2007,27770
+Intrepid,Dodge,2002,20810
+ActiveHybrid 7,BMW,2013,84300
+FF,Ferrari,2014,295000
+GT-R,Nissan,2015,111510
+e-Golf,Volkswagen,2015,33450
+XC60,Volvo,2015,51050
+LaCrosse,Buick,2016,34065
+CT 200h,Lexus,2016,31250
+Continental GTC Speed,Bentley,2010,231400
+Neon,Plymouth,2001,12715
+Impreza,Subaru,2015,21495
+ Fit         , Honda    ,2023,"17,600"
+Venture,Chevrolet,2003,30240
+CX-3,Mazda,2017,24990
+IS 350 C,Lexus,2013,46890
+GS 350,Lexus,2016,50000
+5,Mazda,2015,24770
+F430,Ferrari,2007,201213
+LS 460,Lexus,2017,82305
+ Bolt EUV    , Chevrolet,2023,900
+LR4,Land Rover,2015,60600
+Aerio,Suzuki,2006,15499
+Malibu,Chevrolet,2016,21625
+Verona,Suzuki,2004,18499
+Malibu Maxx,Chevrolet,2005,24610
+Benz AMG GLC 43,Mercedes,2022,110195.0
+Huracan Performante,Lamborghini,2020,261270.0
+Stratus,Dodge,2005,23335
+CX-5,Mazda,2015,27970
+Huracan,Lamborghini,2015,237250
+Tracker,Chevrolet,2003,16630
+Forenza,Suzuki,2008,17689
+XL-7,Suzuki,2004,20099
+Sedona,Kia,2015,36300
+5,Mazda,2014,20140
+Kwid RXT,Renault,2019,5510.0
+Pacifica Hybrid Limited,Chrysler,2021,45370.0
+Envision Essence,Buick,2021,35800.0
+Sebring,Chrysler,2009,30270
+FX45,Infiniti,2008,50100
+Q45,Infiniti,2004,61600
+RX 330,Lexus,2006,36370
+500e,FIAT,2017,31800
+Forenza,Suzuki,2007,15099
+Forenza,Suzuki,2006,13799
+Escape,Ford,2016,27540
+Rapide S,Aston Martin,2016,206000
+Voyager L,Chrysler,2020,26990.0
+Continental GTC,Bentley,2014,195200
+Z3,BMW,2001,37900
+Genesis,Hyundai,2016,41250
+Hector Sharp Hybrid,MG,2019,27300.0
+Celica,Toyota,2004,24810
+GT-R,Nissan,2016,111510
+Ram Cargo,Dodge,2003,20080
+Equus,Hyundai,2015,61500
+Spark EV,Chevrolet,2015,25170
+TrailBlazer,Chevrolet,2009,37195
+Continental,Bentley,2001,299900
+4 Series,BMW,2015,56900
+9-7X,Saab,2007,39190
+Camry Solara,Toyota,2007,27190
+Viper,Dodge,2017,95895
+Dakota,Dodge,2008,25395
+Focus,Ford,2016,18515
+Raider,Mitsubishi,2008,20490
+Armada,Nissan,2017,49650
+F-Type P450 Convertible,Jaguar,2022,73000.0
+G37 Sedan,Infiniti,2010,43350
+Rabbit,Volkswagen,2009,16300
+Aveo,Chevrolet,2011,15365
+Escalade EXT,Cadillac,2012,69640
+Hector Sharp Diesel,MG,2019,29200.0
+Continental GTC,Bentley,2012,212800
+Matrix,Toyota,2011,19685
+Sonic,Chevrolet,2015,15495
+Silverado 1500 Classic,Chevrolet,2007,23350
+Golf GTI,Volkswagen,2016,30620
+Hector Style Diesel,MG,2019,22900.0
+Encore GX Select,Buick,2021,25800.0
+Stelvio Ti,Alfa Romeo,2020,45740.0
+IS 250,Lexus,2015,36550
+124 Spider Lusso Red Top Edition Convertible,Fiat,2019,25100.0
+E-Series Van,Ford,2013,27325
+Jimmy,GMC,2000,2916
+Aerio,Suzuki,2005,17849
+Continental GT V8 Coupe,Bentley,2020,201220.0
+Integra,Acura,2001,21850
+S7,Audi,2016,82900
+XL7,Suzuki,2007,26999
+Envoy XL,GMC,2004,38120
+Tucson,Hyundai,2016,24150
+Elantra,Hyundai,2016,21250
+Levante,Maserati,2017,83000
+Raider,Mitsubishi,2008,23590
+X6,BMW,2017,61400
+QX80 Luxe,Infiniti,2022,84850.0
+Navigator,Lincoln,2016,63195
+Sedona,Kia,2016,28500
+Sportage,Kia,2017,27000
+Esteem,Suzuki,2001,16499
+Cruze Limited,Chevrolet,2016,20195
+RDX,Acura,2016,36670
+Panamera,Porsche,2015,200500
+Murano CrossCabriolet,Nissan,2012,44540
+Silhouette,Oldsmobile,2002,31355
+LeSabre,Buick,2005,32385
+Corvette,Chevrolet,2015,68160
+Navigator L Black Label 4x4,Lincoln,2021,101320.0
+GS 350,Lexus,2017,50695
+F-150 Heritage,Ford,2004,20490
+City Express,Chevrolet,2017,22405
+RAV4,Toyota,2016,29265
+500L Trekking Hatch,Fiat,2020,23500.0
+Envision Avenir AWD,Buick,2021,42000.0
+Sierra 1500 Classic,GMC,2007,31965
+S7,Audi,2015,82500
+iQ,Scion,2013,15495
+Truck,Mazda,2002,12840
+Forenza,Suzuki,2007,14899
+Tracker,Chevrolet,2002,16100
+FX50,Infiniti,2009,58400
+6,Mazda,2016,22995
+GLE-Class,Mercedes-Benz,2016,64600
+5 Series,BMW,2015,67200
+Golf,Volkswagen,2015,26995
+Phantom Coupe,Rolls-Royce,2015,438325
+XLR-V,Cadillac,2009,104215
+Mazdaspeed 3,Mazda,2011,23700
+G37 Coupe,Infiniti,2010,37500
+Captiva Sport,Chevrolet,2015,25985
+Cube,Nissan,2014,19000
+Z3,BMW,2002,37700
+Rondo,Kia,2009,17495
+HHR,Chevrolet,2009,24815
+Sonata Hybrid,Hyundai,2016,26000
+370Z,Nissan,2015,46790
+GT Coupe,Mclaren,2020,210000.0
+Elantra,Hyundai,2017,18150
+Exige,Lotus,2010,65690
+Silverado 1500 Hybrid,Chevrolet,2011,48205
+MDX,Acura,2016,43015
+Boxster,Porsche,2016,74600
+Town Car,Lincoln,2010,52595
+Forte,Kia,2015,19590
+Blazer,Chevrolet,2004,25230
+CX-5,Mazda,2014,22795
+Enclave Essence AWD,Buick,2021,44000.0
+Armada,Nissan,2015,50780
+500e,FIAT,2015,31800
+Rendezvous,Buick,2005,26780
+B-Series,Mazda,2001,18485
+IS 300,Lexus,2005,29735
+Nitro,Dodge,2011,28995
+Supersports Convertible ISR,Bentley,2013,291900
+B-Series Pickup,Mazda,2000,3579
+RSX,Acura,2006,21225
+Boxster,Porsche,2015,73500
+Lancer Evolution,Mitsubishi,2015,37995
+TrailBlazer EXT,Chevrolet,2005,32515
+Rogue,Nissan,2017,23820
+G6,Pontiac,2009,19275
+Camry,Toyota,2016,26310
+Yukon Hybrid,GMC,2012,55280
+Durango,Dodge,2016,41995
+Coupe,Maserati,2006,79900
+CX-3,Mazda,2016,19960
+ Tucson      , Hyundai  ,2023,"27,500"
+New Beetle,Volkswagen,2008,23240
+Taurus X,Ford,2008,28880
+5 Series Gran Turismo,BMW,2017,63200
+Durango SRT 392,Dodge,2022,66270.0
+C30,Volvo,2011,24700
+Integra,Acura,2001,24450
+XTS,Cadillac,2017,45295
+Bentayga V8,Bentley,2020,165000.0
+Truck,Mazda,2003,20880
+RC 350,Lexus,2015,42790
+ Ranger      , Ford     ,2023,"28,570"
+Dakota,Dodge,2009,30155
+Pacifica,Chrysler,2008,36195
+Torrent,Pontiac,2009,29420
+QX4,Infiniti,2002,35550
+S-10,Chevrolet,2003,16120
+Tiburon,Hyundai,2008,18370
+Passport,Honda,2001,26150
+Impala,Chevrolet,2015,34465
+TrailBlazer,Chevrolet,2009,31330
+Grand Am,Pontiac,2003,18890
+Rogue Select,Nissan,2015,21500
+Celica,Toyota,2005,17670
+MP4-12C,McLaren,2012,229000
+Dakota,Dodge,2008,23640
+ATS,Cadillac,2017,46995
+F-Type First Edition,Jaguar,2021,73100.0
+Escalade ESV,Cadillac,2017,83995
+Elise,Lotus,2011,51845
+Yukon,GMC,2015,50740
+TrailBlazer,Chevrolet,2008,37725
+124 Spider Lusso Convertible,Fiat,2020,28100.0
+G Coupe,Infiniti,2011,38600
+Silverado 1500 Classic,Chevrolet,2007,33395
+Aerio,Suzuki,2005,16849
+Tracker,Chevrolet,2003,21430
+R8,Audi,2015,199600
+Giulia Ti Sport AWD,Alfa Romeo,2021,44700.0
+ Venue       , Hyundai  ,2023,"20,400"
+Centenario Roadster,Lamborghini,2020,2000000.0
+Spyder,Maserati,2004,89622
+Sentra,Nissan,2015,20720
+Escalade ESV,Cadillac,2016,80045
+B-Series,Mazda,2001,18360
+Explorer Sport Trac,Ford,2010,33065
+Forenza,Suzuki,2006,15799
+ Fit         , Honda    ,2023,"17,600"
+allroad quattro,Audi,2004,46950
+500X Sport,Fiat,2020,26890.0
+Huracan Evo AWD,Lamborghini,2021,261270.0
+Fit EV,Honda,2013,36625
+Crossfire,Chrysler,2006,38545
+LS,Lincoln,2005,43590
+Sequoia,Toyota,2017,48685
+Savana Cargo,GMC,2014,29215
+Mulsanne,Bentley,2020,310800.0
+G35,Infiniti,2008,32250
+Crown Victoria,Ford,2009,29205
+570S Coupe,Mclaren,2021,191100.0
+C-Max Hybrid,Ford,2017,24120
+Tiburon,Hyundai,2008,21270
+ Sierra      , GMC      ,2023,"51,250"
+Windstar,Ford,2001,22185
+612 Scaglietti,Ferrari,2011,313088
+Golf SportWagen,Volkswagen,2015,31445
+Model X Long Range,Tesla,2020,84990.0
+Golf R,Volkswagen,2017,36755
+M6 Gran Coupe,BMW,2016,117200
+3,MG,2021,12780.0
+M,Infiniti,2012,49850
+M45,Infiniti,2008,52750
+Prius c,Toyota,2016,20360
+CX-7,Mazda,2010,25950
+Forenza,Suzuki,2007,15999
+Ciaz Delta AT,Suzuki,2022,13620.0
+Continental GT W12 First Edition,Bentley,2020,266660.0
+Uplander,Chevrolet,2006,33250
+Firebird,Pontiac,2000,8548
+Grand Prix,Pontiac,2007,24735
+Q50,Infiniti,2015,38950
+GT-R,Nissan,2017,109990
+RS 5,Audi,2014,69600
+DBS,Aston Martin,2011,282295
+Lumina,Chevrolet,2001,18890
+Evora,Lotus,2013,66800
+Prius,Toyota,2017,28115
+Avenger,Dodge,2013,25695
+S4,Audi,2016,56100
+Avalon,Toyota,2016,37050
+G80,Genesis,2017,41400
+V12 Vanquish,Aston Martin,2005,255000
+Touareg 2,Volkswagen,2008,39300
+458 Italia,Ferrari,2015,239340
+Yukon XL,GMC,2017,54230
+Ghost Series II,Rolls-Royce,2016,295850
+Range Rover P525 Autobiography,Land Rover,2022,147400.0
+ Odyssey     , Honda    ,2023,"36,500"
+ CX-5        , Mazda    ,2023,"30,545"
+Baja,Subaru,2005,23145
+New Beetle,Volkswagen,2008,20990
+Avalon Hybrid,Toyota,2017,42550
+Sonata,Hyundai,2016,28925
+Rabbit,Volkswagen,2007,16065
+Mark LT,Lincoln,2008,38915
+500 la Prima,Fiat,2021,69000.0
+Esteem,Suzuki,2001,14699
+Celica,Toyota,2004,22235
+CR-V,Honda,2016,27295
+TTS,Audi,2015,51700
+Continental Flying Spur,Bentley,2011,181200
+Silverado 1500 Classic,Chevrolet,2007,30570
+Q70,Infiniti,2016,67050
+Sephia,Kia,2001,11820
+ES 350,Lexus,2017,38900
+Aviator,Lincoln,2005,43585
+G37,Infiniti,2009,37000
+V50,Volvo,2010,33050
+EX35,Infiniti,2008,33300
+3 Series,BMW,2017,38750
+NV200,Nissan,2016,21760
+Venture,Chevrolet,2005,23365
+Firebird,Pontiac,2000,5844
+GL-Class,Mercedes-Benz,2014,63000
+F-150 XL,Ford,2022,45760.0
+Camry Solara,Toyota,2008,27155
+CTS-V,Cadillac,2014,63600
+Cabrio,Volkswagen,2002,19600
+Q60 Convertible,Infiniti,2015,62100
+Montana,Pontiac,2003,30540
+Tiburon,Hyundai,2007,16695
+SX4,Suzuki,2013,19349
+Beetle,Volkswagen,2015,25895
+ Fit         , Honda    ,2023,"17,600"
+Magnite XV Executive,Nissan,2022,9300.0
+DB9,Aston Martin,2014,200800
+Tundra,Toyota,2017,33450
+Range Rover,Land Rover,2016,86450
+Tiguan,Volkswagen,2016,24890
+Sebring,Chrysler,2010,32710
+Escort,Ford,2002,15015
+A5,Audi,2016,43800
+C30,Volvo,2013,25500
+Yaris,Toyota,2017,16000
+7 Series,BMW,2016,94400
+Celica,Toyota,2004,17570
+Discovery Sport,Land Rover,2015,37070
+RSX,Acura,2004,21100
+Concorde,Chrysler,2003,23180
+Duster RXE,Renault,2019,11600.0
+City Express,Chevrolet,2016,23515
+New Beetle,Volkswagen,2008,18550
+Phantom,Rolls-Royce,2014,402940
+Stratus,Dodge,2006,23755
+GL-Class,Mercedes-Benz,2015,119450
+Camry,Toyota,2017,23070
+Yaris,Toyota,2015,16820
+Crosstrek Premium CVT,Subaru,2022,24940.0
+CT6,Cadillac,2016,58395
+Camry Solara,Toyota,2008,30710
+Bentayga V8 Design Series,Bentley,2020,203200.0
+Integra,Acura,2000,3652
+Elise,Lotus,2009,43995
+Magnum,Dodge,2006,32855
+720S,Mclaren,2022,299000.0
+Truck,Mazda,2002,20575
+Vantage Coupe,Aston Martin,2020,152990.0
+Outlander,Mitsubishi,2016,30995
+Titan,Nissan,2014,39780
+GS 460,Lexus,2011,55370
+Pacifica,Chrysler,2007,33775
+tC,Scion,2015,19210
+V12 Vantage,Aston Martin,2012,180535
+Envision Preferred AWD,Buick,2021,33600.0
+Avalon Hybrid,Toyota,2015,37800
+DB11 AMR RWD,Aston Martin,2022,245900.0
+2 Series,BMW,2017,46450
+Camry Solara,Toyota,2008,20180
+Fusion,Ford,2016,31270
+GLK-Class,Mercedes-Benz,2013,37090
+Tacoma,Toyota,2015,27355
+Enclave,Buick,2017,39065
+Silverado 1500,Chevrolet,2016,35825
+Aventador,Lamborghini,2015,441600
+Continental GT,Bentley,2016,231800
+RC F,Lexus,2016,62805
+500,FIAT,2016,26695
+Hector Smart Diesel,MG,2019,26800.0
+Discovery Series II,Land Rover,2002,33350
+Tahoe Hybrid,Chevrolet,2012,54775
+xA,Scion,2005,12530
+X5,BMW,2015,57700
+Sonic,Chevrolet,2017,18170
+Azure,Bentley,2007,329990
+V50,Volvo,2011,32850
+FF,Ferrari,2015,295000
+GLK-Class,Mercedes-Benz,2015,37900
+Camry Solara,Toyota,2008,22510
+Sierra 1500 Classic,GMC,2007,32025
+Elantra Coupe,Hyundai,2014,19600
+Discovery Sport,Land Rover,2017,46595
+GTO,Pontiac,2004,31795
+Juke,Nissan,2015,25240
+Sierra 1500,GMC,2016,54240
+ Civic       , Honda    ,2023,"22,950"
+Huracan,Lamborghini,2016,238500
+2,Mazda,2013,17050
+A7,Audi,2015,65900
+Impala Limited,Chevrolet,2016,26840
+S Cross Zeta AT,Suzuki,2022,14500.0
+XLR-V,Cadillac,2008,100660
+Cavalier,Chevrolet,2005,14610
+I35,Infiniti,2004,30600
+Savana,GMC,2015,36355
+Five Hundred,Ford,2006,24230
+6 Series,BMW,2015,94900
+GS 200t,Lexus,2017,46310
+Aventador,Lamborghini,2014,441600
+Mustang,Ford,2015,41800
+IS 300,Lexus,2017,40200
+I30,Infiniti,2000,2648
+Yukon XL,GMC,2016,51015
+H3,HUMMER,2008,39290
+Envoy XL,GMC,2005,40235
+CTS,Cadillac,2015,54970
+Acadia Limited,GMC,2017,43850
+F-150,Ford,2017,31710
+Black Diamond Avalanche,Chevrolet,2013,39030
+Jetta Hybrid,Volkswagen,2014,31895
+LS 600h L,Lexus,2016,120440
+Spectra,Kia,2008,15895
+Pilot,Honda,2016,39455
+ Mazda6      , Mazda    ,2023,"24,325"
+Discovery,Land Rover,2003,34350
+Encore,Buick,2016,31285
+Triber Limited Edition,Renault,2022,9010.0
+Charger GT,Dodge,2022,35270.0
+FX35,Infiniti,2010,42850
+ NX          , Lexus    ,2023,"37,510"
+V60,Volvo,2015,45400
+9-2X,Saab,2006,22990
+Crosstrek,Subaru,2017,22495
+XC70,Volvo,2015,42050
+A3,Audi,2017,43150
+Range Rover Evoque P250 R-Dynamic SE,Land Rover,2022,76400.0
+Model S,Tesla,2022,104990.0
+Avenger,Dodge,2012,25995
+GS 450h,Lexus,2016,63080
+Jetta,Volkswagen,2015,22325
+CT 200h,Lexus,2017,31250
+MDX,Acura,2017,56400
+Silhouette,Oldsmobile,2004,36795
+6 Series Gran Coupe,BMW,2015,92600
+Prizm,Chevrolet,2002,14330
+GS 300,Lexus,2006,45100
+Q7,Audi,2017,58800
+Continental Supersports Convertible,Bentley,2012,280400
+488 GTB,Ferrari,2018,301000.0
+GLC-Class,Mercedes-Benz,2017,39150
+Continental Supersports,Bentley,2011,267000
+812 Superfast,Ferrari,2022,610000.0
+Aviator,Lincoln,2003,39485
+Ram Pickup 1500,Dodge,2008,25720
+Stratus,Dodge,2005,20135
+Vitara,Suzuki,2003,15599
+Crossfire,Chrysler,2006,49470
+Escalade Hybrid,Cadillac,2012,76400
+Beetle Convertible,Volkswagen,2016,29790
+Ram Cargo,Dodge,2003,20035
+S60,Volvo,2017,33950
+LR3,Land Rover,2008,54025
+M35,Infiniti,2010,45800
+Touareg,Volkswagen,2015,62200
+Model 3 Standard Range Plus,Tesla,2020,36490.0
+R-Class,Mercedes-Benz,2010,49300
+Dakota,Dodge,2009,26405
+Regal,Buick,2017,31615
+Giulia Ti AWD,Alfa Romeo,2021,44700.0
+Esteem,Suzuki,2000,2000
+7 Series,BMW,2015,141200
+Eldorado,Cadillac,2001,40436
+B-Series Pickup,Mazda,2000,2961
+ Explorer    , Ford     ,2023,"37,775"
+911,Porsche,2015,96200
+Cadenza,Kia,2017,38990
+M,BMW,2001,45990
+Windstar,Ford,2002,22340
+Q70,Infiniti,2014,51750
+Astro,Chevrolet,2003,25690
+Rabbit,Volkswagen,2008,15600
+Range Rover Sport,Land Rover,2016,93075
+Crosstrek,Subaru,2016,26395
+Safari Cargo,GMC,2004,22695
+Malibu Classic,Chevrolet,2008,17935
+S-10,Chevrolet,2002,25990
+xD,Scion,2012,15345
+Juke,Nissan,2016,24830
+Kwid RXE,Renault,2019,5100.0
+ALPINA B7,BMW,2015,132200
+Optima,Kia,2016,29940
+STS,Cadillac,2011,47280
+Aventador SVJ Roadster,Lamborghini,2020,573960.0
+F-150 Heritage,Ford,2004,25460
+V70,Volvo,2010,33550
+Camry Solara,Toyota,2008,27440
+Pacifica Hybrid Touring,Chrysler,2021,39990.0
+ATS,Cadillac,2016,41340
+Escape Hybrid,Ford,2010,34120
+720S Performance,Mclaren,2021,361240.0
+Taurus X,Ford,2008,30750
+2 Series,BMW,2016,32850
+CTS-V Coupe,Cadillac,2014,63600
+911,Porsche,2017,159200
+Q3,Audi,2016,38600
+Navigator Standard 4x2,Lincoln,2021,76180.0
+Freelander,Land Rover,2005,26830
+ Explorer    , Ford     ,2023,"37,775"
+Challenger SRT Hellcat Widebody,Dodge,2021,58980.0
+GLA-Class,Mercedes-Benz,2015,31300
+Triber RXZ,Renault,2019,9000.0
+Sienna,Toyota,2016,34180
+X5 M,BMW,2015,98700
+Range Rover,Land Rover,2014,142100
+Fit,Honda,2015,15650
+360,Ferrari,2004,157767
+M5,BMW,2015,93600
+Urus,Lamborghini,2020,203990.0
+ Camry       , Toyota   ,2023,"26,170"
+Celica,Toyota,2003,18140
+Crosstour,Honda,2014,33690
+ Camry       , Toyota   ,2023,"26,170"
+Tiguan,Volkswagen,2017,30095
+ RDX         , Acura    ,2023,"39,000"
+Stelvio Ti Lusso,Alfa Romeo,2020,45740.0
+Tribute,Mazda,2011,25700
+Phantom Drophead Coupe,Rolls-Royce,2016,492000
+Windstar,Ford,2003,29230
+Sonoma,GMC,2003,18270
+G20,Infiniti,2001,24895
+Silverado 1500 Classic,Chevrolet,2007,24515
+Journey,Dodge,2017,20995
+C-Max Hybrid,Ford,2016,24170
+Mazdaspeed Protege,Mazda,2003,19980
+Challenger,Dodge,2017,35890
+Land Cruiser,Toyota,2017,84325
+MKT,Lincoln,2015,45205
+570S Spider,Mclaren,2021,211300.0
+Sebring,Chrysler,2009,35125
+Pacifica,Chrysler,2008,30310
+California,Ferrari,2013,198190
+Tahoe Limited/Z71,Chevrolet,2000,3413
+Baja,Subaru,2004,22795
+Rogue Select,Nissan,2014,20150
+Frontier,Nissan,2016,26750
+4C,Alfa Romeo,2016,55900
+TSX Sport Wagon,Acura,2014,35635
+Aventador SVJ,Lamborghini,2020,515000.0
+S-Class,Mercedes-Benz,2016,234050
+V60 Cross Country,Volvo,2017,41700
+Baja,Subaru,2005,27245
+Jimmy,GMC,2001,25170
+XL-7,Suzuki,2006,25499
+Silhouette,Oldsmobile,2003,28040
+Element,Honda,2009,21475
+M,Infiniti,2013,61200
+E-Series Van,Ford,2012,31460
+RAV4 EV,Toyota,2013,49800
+Tribute,Mazda,2009,22935
+Celica,Toyota,2005,18470
+Montero Sport,Mitsubishi,2002,27777
+Town and Country,Chrysler,2016,35845
+B-Series Truck,Mazda,2007,22045
+S3,Audi,2015,41100
+ATS,Cadillac,2015,41340
+ALPINA B7,BMW,2014,135200
+Montero Sport,Mitsubishi,2002,25087
+iQ,Scion,2014,17850
+IS F,Lexus,2014,63600
+Elantra,Hyundai,2015,22600
+Spectra,Kia,2007,12895
+Sportage,Kia,2016,23650
+Giulia Ti Sport Carbon,Alfa Romeo,2020,41340.0
+Ridgeline,Honda,2017,37730
+Explorer Sport,Ford,2003,21870
+Jetta SportWagen,Volkswagen,2014,20995
+B-Series Truck,Mazda,2009,16060
+ Venue       , Hyundai  ,2023,"20,400"
+M35,Infiniti,2008,43900
+Spectra,Kia,2008,12895
+Neon,Dodge,2004,17640
+F-150 Heritage,Ford,2004,22315
+Stratus,Dodge,2004,19690
+Tracker,Chevrolet,2004,19865
+4 Series Gran Coupe,BMW,2017,48300
+TL,Acura,2012,42985
+Outlander,Mitsubishi,2015,26195
+G6,Pontiac,2009,20490
+Uplander,Chevrolet,2008,29330
+V8 Vantage,Aston Martin,2014,145200
+Aurora,Oldsmobile,2001,30619
+Tucson,Hyundai,2015,26450
+SC 400,Lexus,2000,4404
+Voyager L,Chrysler,2022,28930.0
+Cube,Nissan,2012,14980
+500 Abarth Cabrio,Fiat,2018,32240.0
+Town and Country,Chrysler,2015,29995
+Aerio,Suzuki,2005,15949
+DB9 GT,Aston Martin,2016,235307
+Pathfinder,Nissan,2015,29510
+Nitro,Dodge,2009,23900
+G Coupe,Infiniti,2012,51700
+9-5,Saab,2009,43270
+ Corvette    , Chevrolet,2023,"75,590"
+Sebring,Chrysler,2008,29275
+Uplander,Chevrolet,2008,23080
+Colorado,Chevrolet,2012,28340
+Blackwood,Lincoln,2002,51785
+XC,Volvo,2002,36500
+360,Ferrari,2004,187124
+SLR McLaren,Mercedes-Benz,2008,495000
+Flex,Ford,2015,32100
+Artura,Mclaren,2021,225000.0
+Golf R,Volkswagen,2015,39090
+Venture,Chevrolet,2003,29740
+Lucerne,Buick,2009,34670
+Tahoe,Chevrolet,2017,50215
+Routan,Volkswagen,2012,34490
+G37,Infiniti,2009,43900
+6,Mazda,2017,30695
+xB,Scion,2014,16970
+Equator,Suzuki,2011,25979
+Cruze,Chevrolet,2015,16170
+Enyaq Coupe iV 60,Skoda,2022,68090.0
+Highlander Hybrid,Toyota,2016,50485
+Firebird,Pontiac,2002,28025
+500L,FIAT,2017,23695
+CC,Volkswagen,2016,32670
+350Z,Nissan,2007,30600
+G Sedan,Infiniti,2012,41500
+XG350,Hyundai,2004,23999
+Impala Limited,Chevrolet,2014,26840
+Camry Hybrid,Toyota,2017,26790
+Acadia,GMC,2015,33975
+Silverado 1500 Classic,Chevrolet,2007,19620
+Mark LT,Lincoln,2007,41525
+M3,BMW,2017,64000
+Z4,BMW,2016,57500
+ActiveHybrid X6,BMW,2010,88900
+Sierra 1500 Limited SLE,GMC,2022,42400.0
+Model 3 Standard Range Plus,Tesla,2021,37990.0
+TrailBlazer EXT,Chevrolet,2006,25880
+Mazdaspeed Protege,Mazda,2003,20480
+M6,BMW,2016,119700
+Mazdaspeed 3,Mazda,2012,24000
+FX,Infiniti,2011,44050
+ Ascent      , Subaru   ,2023,"33,420"
+Escape,Ford,2015,29735
+CX-7,Mazda,2012,26455
+XG350,Hyundai,2004,25599
+T Scat Pack,Dodge,2022,42000.0
+Cavalier,Chevrolet,2003,16830
+G37,Infiniti,2009,36650
+Murcielago,Lamborghini,2008,345400
+G Sedan,Infiniti,2011,41550
+Passport,Honda,2000,2452
+Envoy,GMC,2008,30115
+Evora,Lotus,2011,64000
+SF90 Spider,Ferrari,2021,558000.0
+Continental GT V8 Convertible,Bentley,2020,222700.0
+E55 AMG,Mercedes-Benz,2000,6120
+Tiguan,Volkswagen,2015,30225
+Prius v,Toyota,2017,26675
+C30,Volvo,2012,27450
+Escort,Ford,2002,13860
+Passat,Volkswagen,2016,26280
+Crossfire,Chrysler,2006,45170
+Dart,Dodge,2014,16495
+Elantra GT,Hyundai,2015,19800
+Continental GT3-R,Bentley,2015,337000
+ CR-V        , Honda    ,2023,"31,450"
+Taurus,Ford,2016,29540
+TT,Audi,2017,47000
+NSX,Acura,2017,156000
+Seville,Cadillac,2003,51650
+F12 Berlinetta,Ferrari,2013,315888
+GranSport,Maserati,2006,99900
+TrailBlazer EXT,Chevrolet,2004,34220
+Camaro,Chevrolet,2016,48300
+Continental Flying Spur,Bentley,2013,184200
+Savana,GMC,2014,30970
+F-Pace SVR,Jaguar,2021,84600.0
+C70,Volvo,2013,41200
+Five Hundred,Ford,2006,24080
+Forenza,Suzuki,2007,13999
+LS,Lincoln,2006,39285
+Malibu Maxx,Chevrolet,2005,20965
+Torrent,Pontiac,2008,28120
+Corvette,Chevrolet,2017,87015
+Pacifica,Chrysler,2007,30250
+Esteem,Suzuki,2002,13799
+iM,Scion,2016,18460
+F-Type First Edition Convertible,Jaguar,2021,75400.0
+Five Hundred,Ford,2007,24885
+Eclipse Spyder,Mitsubishi,2012,28299
+Avenger,Dodge,2014,20595
+Sonoma,GMC,2002,20793
+FR-S,Scion,2014,24700
+ Camaro      , Chevrolet,2023,"25,000"
+Ghost Series II,Rolls-Royce,2015,286750
+Sonoma,GMC,2002,15957
+500L Trekking Hatch,Fiat,2019,22300.0
+Huracan Evo Spyder RWD,Lamborghini,2020,287400.0
+MX-5 Miata,Mazda,2016,28600
+Montero Sport,Mitsubishi,2003,22907
+RX 300,Lexus,2003,36925
+ RX          , Lexus    ,2023,"46,800"
+360,Ferrari,2004,169900
+350Z,Nissan,2008,36280
+A3,Audi,2015,35150
+Dakota,Dodge,2008,30155
+DB11 AMR,Aston Martin,2020,241000.0
+Silhouette,Oldsmobile,2004,32125
+62,Maybach,2011,423500
+F-Type R-Dynamic Convertible,Jaguar,2021,84900.0
+350Z,Nissan,2008,33840
+Vantage AMR 59 Edition,Aston Martin,2020,204990.0
+Neon,Dodge,2003,19450
+626,Mazda,2000,2080
+ILX,Acura,2016,34890
+LX 570,Lexus,2017,89380
+Jetta SportWagen,Volkswagen,2013,21695
+Charger,Dodge,2016,27995
+Legacy,Subaru,2017,31640
+CLK-Class,Mercedes-Benz,2008,54500
+Huracan,Lamborghini,2020,287100.0
+Lancer Evolution,Mitsubishi,2014,38195
+Flying Spur,Bentley,2014,200500
+Outback,Subaru,2017,35995
+G Convertible,Infiniti,2013,61450
+FJ Cruiser,Toyota,2013,27030
+500L,FIAT,2016,21880
+350Z,Nissan,2008,37740
+Yukon,GMC,2017,68965
+Safari Cargo,GMC,2005,22930
+Lancer,Mitsubishi,2015,17395
+Ram Wagon,Dodge,2000,2326
+500 Abarth,Fiat,2018,28240.0
+Venture,Chevrolet,2005,30760
+DTS,Cadillac,2009,49730
+Mazdaspeed 3,Mazda,2013,24200
+G20,Infiniti,2000,2449
+S-Cross Hybrid,Suzuki,2022,32740.0
+Rabbit,Volkswagen,2008,17575
+Jimmy,GMC,2001,28770
+9-3,Saab,2011,28900
+ GV80        , Genesis  ,2023,"47,700"
+Ghibli GranLusso,Maserati,2022,82700.0
+Esteem,Suzuki,2002,16599
+Park Avenue,Buick,2005,40730
+812 Superfast,Ferrari,2021,338000.0
+NX 200t,Lexus,2016,34965
+Uplander,Chevrolet,2006,22750
+Magnum,Dodge,2006,22680
+S3,Audi,2017,48400
+A4,Audi,2015,45000
+ Telluride   , Kia      ,2023,"38,500"
+Cavalier,Chevrolet,2004,16105
+GranTurismo,Maserati,2014,143400
+Camaro,Chevrolet,2017,42905
+GX 460,Lexus,2015,49485
+9-7X,Saab,2008,46530
+ 4Runner     , Toyota   ,2023,"36,585"
+X3,BMW,2016,38950
+G6,Pontiac,2008,18765
+CTS-V Coupe,Cadillac,2015,69900
+Traverse,Chevrolet,2016,44145
+Lucerne,Buick,2011,29730
+Titan,Nissan,2017,37670
+Blazer,Chevrolet,2003,23745
+Huracan Evo RWD Spyder,Lamborghini,2021,242580.0
+Bravada,Oldsmobile,2002,32660
+599,Ferrari,2010,310543
+Murcielago,Lamborghini,2008,336400
+Murano,Nissan,2016,34400
+RX 350,Lexus,2015,40970
+Veracruz,Hyundai,2010,35895
+Neon,Dodge,2003,13030
+Transit Wagon,Ford,2016,36825
+ATS Coupe,Cadillac,2016,47605
+Golf R,Volkswagen,2016,36750
+Rondo,Kia,2009,19495
+Quest,Nissan,2014,33750
+Superb Sportline AT,Skoda,2020,46260.0
+Impreza WRX,Subaru,2013,28295
+124 Spider Abarth Convertible,Fiat,2020,29300.0
+Juke,Nissan,2017,28020
+Sierra 1500 Classic,GMC,2007,30550
+Stelvio Sport AWD,Alfa Romeo,2020,43340.0
+Cayenne,Porsche,2015,74100
+4 Series,BMW,2016,52000
+GTC4 Lusso,Ferrari,2018,338550.0
+Verano,Buick,2017,21065
+RX 450h,Lexus,2015,47620
+720S Performance,Mclaren,2022,582580.0
+Golf GTI,Volkswagen,2017,35195
+IS 250,Lexus,2014,36100
+Veracruz,Hyundai,2012,30245
+Rabbit,Volkswagen,2008,16675
+Magnum,Dodge,2008,27225
+Accord Hybrid,Honda,2015,35055
+CLK-Class,Mercedes-Benz,2008,89500
+500e,FIAT,2016,31800
+Silverado 1500 Classic,Chevrolet,2007,24965
+Pacifica,Chrysler,2007,27600
+Seville,Cadillac,2004,45975
+xB,Scion,2013,16970
+Corolla,Toyota,2016,19135
+650S Spider,McLaren,2015,280225
+Fusion Hybrid,Ford,2015,27380
+Safari Cargo,GMC,2003,22050
+F430,Ferrari,2008,199054
+Taurus X,Ford,2009,32325
+Tiburon,Hyundai,2007,22095
+Crossfire,Chrysler,2007,34595
+Taurus X,Ford,2008,32600
+X5 M,BMW,2017,98800
+Cabrio,Volkswagen,2002,21475
+M37,Infiniti,2011,49200
+Murcielago,Lamborghini,2009,382400
+Taycan Turbo Sport Turismo,Porsche,2022,168041.0
+Sierra 1500 Classic,GMC,2007,20750
+X5,BMW,2017,57800
+Montana,Pontiac,2005,30210
+SSR,Chevrolet,2006,39240
+Aspen,Chrysler,2008,32905
+EX35,Infiniti,2010,33800
+Integra,Acura,2001,22600
+B9 Tribeca,Subaru,2007,29995
+A4,Audi,2016,37000
+ Acadia      , GMC      ,2023,"33,900"
+G20,Infiniti,2001,22195
+Passport,Honda,2000,2715
+CL-Class,Mercedes-Benz,2013,213200
+Voyager LX,Chrysler,2021,30040.0
+Avalanche,Chevrolet,2012,40195
+FJ Cruiser,Toyota,2012,27705
+Trax,Chevrolet,2016,24145
+QX50,Infiniti,2015,36400
+STS,Cadillac,2010,55945
+Beetle,Volkswagen,2016,25995
+Range Rover Sport,Land Rover,2014,79100
+SRT Viper,Dodge,2014,107385
+Grand Vitara,Suzuki,2013,23799
+CLS-Class,Mercedes-Benz,2017,74850
+Lucerne,Buick,2010,35730
+Tiburon,Hyundai,2008,22620
+Phantom Coupe,Rolls-Royce,2016,449525
+Express,Chevrolet,2016,37500
+Encore GX Essence AWD,Buick,2021,30600.0
+ C-Class     , Mercedes ,2023,"42,600"
+Grand Voyager,Chrysler,2000,2266
+E-Golf,Volkswagen,2022,23190.0
+Park Avenue,Buick,2004,40425
+Eclipse Spyder,Mitsubishi,2011,32599
+Continental,Lincoln,2017,44560
+Jimmy,GMC,2001,22270
+Urus SUV,Lamborghini,2020,207320.0
+Dawn Black Badge,Rolls Royce,2020,428050.0
+ XC60        , Volvo    ,2023,"42,400"
+Camry Solara,Toyota,2008,21010
+RS 7,Audi,2015,106500
+M45,Infiniti,2009,52150
+ GLC-Class   , Mercedes ,2023,"43,900"
+Avalanche,Chevrolet,2010,45815
+Tribute Hybrid,Mazda,2009,33445
+Spark,Chevrolet,2015,14040
+Protege,Mazda,2001,13885
+R8,Audi,2017,162900
+Venture,Chevrolet,2004,33625
+SX4,Suzuki,2012,16799
+Intrigue,Oldsmobile,2002,23160
+Yaris,Toyota,2016,17670
+G6,Pontiac,2009,28960
+K AT,Skoda,2020,43900.0
+Taurus X,Ford,2009,34175
+Lancer,Mitsubishi,2016,18595
+500L Lounge Hatch,Fiat,2020,25300.0
+i-MiEV,Mitsubishi,2016,22995
+Prelude,Honda,2000,3407
+Veloster,Hyundai,2015,19250
+Challenger SRT Super Stock,Dodge,2021,58990.0
+IS 200t,Lexus,2016,37325
+Escalade Sport Platinum 4WD,Cadillac,2022,104590.0
+B9 Tribeca,Subaru,2007,32495
+Terraza,Buick,2006,29750
+Journey,Dodge,2016,27395
+Forester,Subaru,2015,33095
+ Acadia      , GMC      ,2023,"33,900"
+Sierra 1500 Classic,GMC,2007,24515
+57,Maybach,2012,379050
+QX50 Pure AWD,Infiniti,2022,41000.0
+xB,Scion,2015,18070
+F-150,Ford,2015,45090
+Concorde,Chrysler,2002,28415
+CLK-Class,Mercedes-Benz,2007,54900
+Rabbit,Volkswagen,2008,18650
+STS,Cadillac,2009,46845
+Taycan Plus,Porsche,2022,99600.0
+Spectra,Kia,2009,13550
+Sierra 1500 Classic,GMC,2007,30930
+Freestar,Ford,2007,26665
+Envision,Buick,2016,42070
+S7,Audi,2017,82900
+9-5,Saab,2010,49165
+Diamante,Mitsubishi,2004,24999
+Sierra 1500 Hybrid,GMC,2011,45425
+Sonoma,GMC,2002,15420
+Giulia Ti AWD,Alfa Romeo,2020,43340.0
+ECHO,Toyota,2005,10985
+Spyder,Maserati,2003,85542
+DBS,Aston Martin,2012,295987
+Terraza,Buick,2005,28110
+Kizashi,Suzuki,2011,21049
+Continental,Lincoln,2002,38185
+575M,Ferrari,2003,217890
+V60 Cross Country,Volvo,2015,41000
+M5,BMW,2016,94100
+Eldorado,Cadillac,2001,44011
+Impala,Chevrolet,2016,40810
+Gallardo,Lamborghini,2012,248000
+DeVille,Cadillac,2005,46430
+4 Series Gran Coupe,BMW,2015,42300
+500X Trekking,Fiat,2020,25990.0
+Viper,Dodge,2015,107995
+Tribute,Mazda,2009,23055
+Q60 Coupe,Infiniti,2014,51750
+Kiger,Renault,2022,7510.0
+Sonic,Chevrolet,2016,16155
+Pacifica Hybrid Touring L,Chrysler,2020,42290.0
+Solstice,Pontiac,2008,28400
+Urus Performante,Lamborghini,2021,218000.0
+Taurus,Ford,2017,36855
+GranTurismo Convertible,Maserati,2016,161070
+456M,Ferrari,2002,224585
+Discovery Series II,Land Rover,2001,36350
+Envoy,GMC,2009,35615
+Pilot,Honda,2017,39255
+LX 600 Premium,Lexus,2022,95000.0
+Gallardo,Lamborghini,2014,209500
+Sentra,Nissan,2016,22170
+Cayman,Porsche,2015,63800
+Tundra,Toyota,2016,34220
+SLS AMG GT,Mercedes-Benz,2014,275000
+Protege,Mazda,2003,16140
+Envoy,GMC,2009,33480
+Q8 Prestige 55 TFSI quattro,Audi,2022,84400.0
+Transit Wagon,Ford,2017,34515
+Bonneville,Pontiac,2004,35270
+Eos,Volkswagen,2014,38325
+M5,BMW,2014,92900
+Entourage,Hyundai,2007,26395
+X6,BMW,2016,62900
+X4,BMW,2015,44700
+GLA-Class,Mercedes-Benz,2016,49580
+Uplander,Chevrolet,2006,28250
+SLK-Class,Mercedes-Benz,2016,59200
+A6,Audi,2017,53800
+Aztek,Pontiac,2003,23820
+Encore GX Preferred AWD,Buick,2021,26200.0
+ Tundra      , Toyota   ,2023,"42,700"
+Avalon,Toyota,2015,37170
+ILX Hybrid,Acura,2014,28900
+ Camaro      , Chevrolet,2023,"25,000"
+GLE-Class Coupe,Mercedes-Benz,2016,65100
+LX 570,Lexus,2015,83180
+Continental Supersports,Bentley,2012,267000
+Dakota,Dodge,2009,29355
+Cruze,Chevrolet,2016,19120
+ATS Coupe,Cadillac,2017,43395
+H3,HUMMER,2009,33390
+Ghost,Rolls Royce,2020,315000.0
+JS4,JAC,2022,18770.0
+Sierra 1500 Classic,GMC,2007,25845
+200,Chrysler,2015,25170
+Durango Citadel,Dodge,2022,49820.0
+Fiesta,Ford,2017,15660
+Dakota,Dodge,2008,26590
+A6,Audi,2015,58700
+Hector Super Hybrid,MG,2019,23300.0
+Ram Pickup 1500,Dodge,2008,26705
+Freelander,Land Rover,2004,25330
+ Acadia      , GMC      ,2023,"33,900"
+Ram Van,Dodge,2000,2320
+Outlander Sport,Mitsubishi,2017,24195
+DBS Superleggera Volante,Aston Martin,2021,334700.0
+Sunfire,Pontiac,2003,14930
+Borrego,Kia,2009,26245
+ A4          , Audi     ,2023,"39,900"
+Silverado 3500HD Work Truck,Chevrolet,2022,41700.0
+Aveo,Chevrolet,2009,14100
+350Z,Nissan,2008,33340
+Continental V8 Coupe,Bentley,2021,202600.0
+NSX,Acura,2005,89000
+Silverado 1500 Classic,Chevrolet,2007,19865
+9-3,Saab,2010,32395
+Quattroporte,Maserati,2015,106900
+GTC4 Lusso T,Ferrari,2018,306800.0
+Versa,Nissan,2016,14040
+X6 M50d,BMW,2022,188140.0
+Galant,Mitsubishi,2010,21599
+GLI,Volkswagen,2009,25870
+XV Crosstrek,Subaru,2013,21995
+626,Mazda,2000,2146
+Navigator,Lincoln,2017,65560
+TrailBlazer,Chevrolet,2008,29535
+ALPINA B6 Gran Coupe,BMW,2016,122200
+ X5          , BMW      ,2023,"62,695"
+G6,Pontiac,2008,26755
+Vitara,Suzuki,2004,19199
+EX35,Infiniti,2009,33800
+Camry Solara,Toyota,2006,21025
+Ram Pickup 1500,Dodge,2009,32945
+Passport,Honda,2002,26450
+B-Series Truck,Mazda,2009,22150
+Prelude,Honda,2001,23600
+Freestar,Ford,2007,19700
+Virtus,Volkswagen,2022,13080.0
+Fusion,Ford,2017,30610
+New Beetle,Volkswagen,2008,20525
+570S,McLaren,2016,184900
+S5,Audi,2017,53100
+Ciaz,Suzuki,2022,11300.0
+RC 300,Lexus,2017,42770
+Cobalt,Chevrolet,2010,15670
+Phantom,Rolls-Royce,2016,417825
+AMG E53 4MATIC Coupe,Mercedes,2022,77600.0
+MDX,Acura,2015,44565
+IS 350,Lexus,2014,39615
+SC 430,Lexus,2010,68405
+Focus,Ford,2017,21675
+Phaeton,Volkswagen,2005,96100
+ES 330,Lexus,2006,32300
+RLX,Acura,2017,54450
+New Beetle,Volkswagen,2010,18690
+Stelvio Ti AWD,Alfa Romeo,2021,47100.0
+Continental GT,Bentley,2014,177500
+B9 Tribeca,Subaru,2007,35495
+Silverado 1500 Classic,Chevrolet,2007,26685
+Phantom,Rolls-Royce,2015,407400
+Impreza WRX,Subaru,2014,28495
+RSX,Acura,2005,21175
+Continental,Lincoln,2002,38790
+300 Touring AWD,Chrysler,2021,33190.0
+Shelby GT350,Ford,2016,61295
+Leaf,Nissan,2015,32100
+488 Spider,Ferrari,2018,334400.0
+ Grand Cherokee , Jeep     ,2023,"36,750"
+Grand Caravan,Dodge,2015,30995
+Tribute,Mazda,2009,24200
+XL7,Suzuki,2007,25399
+DBS Superleggera Coupe,Aston Martin,2021,316300.0
+F430,Ferrari,2008,217310
+F430,Ferrari,2007,184309
+GLI,Volkswagen,2012,26895
+SRX,Cadillac,2015,48920
+Impreza,Subaru,2016,18295
+GX 460,Lexus,2017,51280
+Taycan Sports Turismo,Porsche,2022,94400.0
+CTS Coupe,Cadillac,2013,40805
+Envoy,GMC,2008,37105
+Charger SRT Hellcat Widebody,Dodge,2021,69990.0
+Roma,Ferrari,2020,225000.0
+Jimmy,GMC,2000,2407
+S6,Audi,2016,70900
+Golf GTI,Volkswagen,2015,29280
+Eos,Volkswagen,2015,39545
+Passport,Honda,2001,26800
+ Escape      , Ford     ,2023,"28,895"
+Yukon XL,GMC,2015,61925
+Maxima,Nissan,2017,34590
+Safari,GMC,2005,24430
+RX 330,Lexus,2006,37770
+QX50 AUTOGRAPH,Infiniti,2022,56950.0
+Eldorado,Cadillac,2002,42130
+Quattroporte,Maserati,2016,107900
+CLA-Class,Mercedes-Benz,2015,31500
+X6,BMW,2015,61900
+Veloster,Hyundai,2016,19100
+Pacifica,Chrysler,2017,42495
+Windstar,Ford,2001,27435
+626,Mazda,2001,20935
+IS 350,Lexus,2016,43035
+Murcielago,Lamborghini,2009,364000
+V12 Vanquish,Aston Martin,2005,234260
+Charger,Dodge,2017,27995
+Elantra Touring,Hyundai,2011,15995
+McLaren Speedtail,Mclaren,2020,2100000.0
+718 Cayman,Porsche,2017,53900
+Pacifica,Chrysler,2008,27225
+Cube,Nissan,2013,16760
+2,Mazda,2012,16020
+IS 350 C,Lexus,2015,47640
+Prius v,Toyota,2016,26675
+RC 200t,Lexus,2016,39995
+B9 Tribeca,Subaru,2007,31995
+Solstice,Pontiac,2007,21515
+Grand Caravan,Dodge,2017,29395
+WRX,Subaru,2017,39995
+Aventador SVR Track-Only Edition,Lamborghini,2021,450000.0
+350Z,Nissan,2007,38070
+Dakota,Dodge,2008,30760
+650S Coupe,McLaren,2015,265500
+Vanquish,Aston Martin,2014,296295
+Cavalier,Chevrolet,2005,14410
+FR-S,Scion,2015,31090
+XL7,Suzuki,2009,25745
+ Explorer    , Ford     ,2023,"37,775"
+Giulia GTA,Alfa Romeo,2021,155000.0
+G35,Infiniti,2008,34750
+Venza,Toyota,2015,35600
+Truck,Mazda,2003,23150
+Bentayga V8,Bentley,2021,177000.0
+F-150 Heritage,Ford,2004,23285
+Kwid RXE,Renault,2020,4990.0
+Cybertruck Single Motor RWD,Tesla,2021,40000.0
+Z3,BMW,2001,31300
+S4,Audi,2015,48400
+Aspen,Chrysler,2009,37115
+Integra,Acura,2001,20200
+Tracker,Chevrolet,2002,19060
+Flying Spur,Bentley,2020,214600.0
+ Compass     , Jeep     ,2023,"26,350"
+Malibu Maxx,Chevrolet,2007,23915
+RAV4 EV,Toyota,2014,49800
+X3,BMW,2017,42750
+Endeavor,Mitsubishi,2010,29999
+Taurus X,Ford,2009,28270
+Veyron 16.4,Bugatti,2008,1500000
+EX,Infiniti,2012,38100
+Sian Hybrid,Lamborghini,2020,3700000.0
+Explorer Sport,Ford,2002,24615
+ Wrangler    , Jeep     ,2023,"33,590"
+Envoy XL,GMC,2005,36060
+GX 460 Luxury 4WD,Lexus,2022,65130.0
+Murano,Nissan,2015,39000
+DBS,Aston Martin,2010,283900
+Passport,Honda,2001,29250
+200,Chrysler,2017,29905
+Baja,Subaru,2006,25595
+ES 330,Lexus,2005,32175
+Shelby GT350,Ford,2017,61795
+CTS-V Wagon,Cadillac,2013,63215
+Escalade,Cadillac,2017,92195
+CTS-V,Cadillac,2016,83995
+Reno,Suzuki,2006,14199
+Forenza,Suzuki,2008,15889
+Landaulet,Maybach,2011,1380000
+300S,Chrysler,2021,37390.0
+Elise,Lotus,2010,47250
+ Atlas      , Volkswagen ,2023,"33,450"
+Sienna,Toyota,2017,29750
+626,Mazda,2002,19985
+TL,Acura,2014,37530
+B-Series Pickup,Mazda,2000,2413
+CT 200h,Lexus,2015,32200
+DBS Superleggera Volante,Aston Martin,2020,335000.0
+Performante Spyder,Lamborghini,2020,359800.0
+Sian Coupe,Lamborghini,2020,3700000.0
+5 Series Gran Turismo,BMW,2015,60700
+Escort,Ford,2002,12815
+Equinox,Chevrolet,2016,22600
+CR-Z,Honda,2014,20645
+Galant,Mitsubishi,2012,21899
+ Model 3     , Tesla    ,2023,"49,990"
+Verona,Suzuki,2005,17549
+X4,BMW,2017,58100
+Kizashi,Suzuki,2012,23899
+ RAV4        , Toyota   ,2023,"29,350"
+QX60,Infiniti,2015,45400
+CL,Acura,2003,28200
+SL-Class,Mercedes-Benz,2015,84000
+Murano CrossCabriolet,Nissan,2013,44540
+i3,BMW,2016,42400
+6 Series,BMW,2016,87800
+Odyssey,Honda,2016,37650
+Forenza,Suzuki,2007,15449
+360,Ferrari,2003,165986
+Tracker,Chevrolet,2003,17730
+1 Series M,BMW,2011,46135
+Quattroporte,Maserati,2017,116000
+Cavalier,Chevrolet,2004,17410
+Sentra,Nissan,2017,21500
+599,Ferrari,2009,320580
+Escape,Ford,2017,23600
+ Bolt EUV    , Chevrolet,2023,"33,995"
+S60 Cross Country,Volvo,2017,44200
+RX-8,Mazda,2009,27860
+K900,Kia,2015,59900
+Dakota,Dodge,2008,30780
+Aerio,Suzuki,2005,15149
+Bentayga Hybrid,Bentley,2020,160000.0
+GS 200t,Lexus,2016,53285
+Giulia Ti Sport AWD,Alfa Romeo,2020,43340.0
+350Z,Nissan,2008,28510
+ActiveHybrid 7,BMW,2015,84300
+500X Trekking Plus,Fiat,2020,29490.0
+Ram Pickup 1500,Dodge,2008,29395
+IS 300,Lexus,2016,39700
+Cabrio,Volkswagen,2002,20600
+A6,Audi,2016,52100
+GranTurismo,Maserati,2015,132825
+NV200,Nissan,2017,22230
+500X 120th Anniversary Edition AWD,Fiat,2019,24400.0
+Optima Hybrid,Kia,2015,32150
+Altima Hybrid,Nissan,2010,26780
+TSX,Acura,2012,30010
+Duster 85PS RXS,Renault,2019,14500.0
+F-Pace P250,Jaguar,2021,49990.0
+812 GTS,Ferrari,2020,363730.0
+Silverado 1500 Classic,Chevrolet,2007,35160
+CL-Class,Mercedes-Benz,2014,215500
+Z3,BMW,2002,31300
+Sonoma,GMC,2003,17670
+Xterra,Nissan,2015,26670
+500L Lounge Hatch,Fiat,2019,24300.0
+Flex,Ford,2017,43030
+Five Hundred,Ford,2005,28090
+Enclave Premium AWD,Buick,2021,50600.0
+Accent,Hyundai,2016,15745
+F8 Tributo,Ferrari,2020,276550.0
+Azera,Hyundai,2016,34100
+LS 460,Lexus,2016,75465
+RC 350,Lexus,2016,45015
+G35,Infiniti,2006,33800
+9-7X,Saab,2009,42615
+Reno,Suzuki,2006,13299
+Spark EV,Chevrolet,2016,25510
